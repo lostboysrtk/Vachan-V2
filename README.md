@@ -22,6 +22,6 @@
 ## Showcase
 - [Watch the Demo on YouTube](https://www.youtube.com/watch?v=7WnDl5LnKYM)
 - [Website link](https://vachan1.vercel.app/landing)
-- [Access the Showcase on Google Drive](https://docs.google.com/document/d/12Ui5P7V_IKEE48oMk26jVxyz3WOu45P6nb2Q6LjmrG0/edit?usp=sharing)
+- [Access the PPT, Demo Video on Google Drive](https://drive.google.com/drive/folders/1sRW1goXgG2rOL0CsMoWrP8IdkQLm7iZy?usp=sharing)
 
 ---
