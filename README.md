@@ -20,7 +20,7 @@
 ---
 
 ## Showcase
-- [Watch the Demo on YouTube]()
+- [Watch the Demo on YouTube](https://www.youtube.com/watch?v=7WnDl5LnKYM)
 - [Website link](https://vachan1.vercel.app/landing)
 - [Access the Showcase on Google Drive](https://docs.google.com/document/d/12Ui5P7V_IKEE48oMk26jVxyz3WOu45P6nb2Q6LjmrG0/edit?usp=sharing)
 
